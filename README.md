@@ -81,4 +81,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/alwayspiyush07/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/alwayspiyush07/LeetCode/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/alwayspiyush07/LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
