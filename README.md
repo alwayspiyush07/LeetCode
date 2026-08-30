@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/alwayspiyush07/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/alwayspiyush07/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/alwayspiyush07/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0204-count-primes](https://github.com/alwayspiyush07/LeetCode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/alwayspiyush07/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/alwayspiyush07/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/alwayspiyush07/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -85,8 +86,29 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/alwayspiyush07/LeetCode/tree/master/0050-powx-n) |
+| [0204-count-primes](https://github.com/alwayspiyush07/LeetCode/tree/master/0204-count-primes) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/alwayspiyush07/LeetCode/tree/master/0050-powx-n) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/alwayspiyush07/LeetCode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/alwayspiyush07/LeetCode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/alwayspiyush07/LeetCode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/alwayspiyush07/LeetCode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/alwayspiyush07/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
